@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Hangman",
+        "image": "",
+        "link": "https://rgoderis.github.io/Word-Guess-Game/",
+        "github": ""
+    },
+    {
+        "name": "Psychic Game",
+        "image": "",
+        "link": "https://rgoderis.github.io/Psychic-Game/",
+        "github": ""
+    },
+    {
+        "name": "Star Wars RPG",
+        "image": "",
+        "link": "https://rgoderis.github.io/StarWars-RPG/",
+        "github": ""
+    },
+    {
+        "name": "Trivia Game",
+        "image": "",
+        "link": "https://rgoderis.github.io/TriviaGame/",
+        "github": ""
+    },
+    {
+        "name": "GifTastic",
+        "image": "",
+        "link": "https://rgoderis.github.io/GifTastic/",
+        "github": ""
+    },
+    {
+        "name": "Train Scheduler",
+        "image": "",
+        "link": "https://rgoderis.github.io/Train-Scheduler/",
+        "github": ""
+    },
+    {
+        "name": "EventZip",
+        "image": "",
+        "link": "https://rgoderis.github.io/EventZip/",
+        "github": ""
+    },
+    {
+        "name": "Friend Finder",
+        "image": "",
+        "link": "https://obscure-everglades-53091.herokuapp.com/",
+        "github": ""
+    },
+    {
+        "name": "Eat Da Burger",
+        "image": "",
+        "link": "https://calm-brushlands-25542.herokuapp.com/",
+        "github": ""
+    },
+    {
+        "name": "NYT Scraper",
+        "image": "",
+        "link": "https://fast-citadel-83096.herokuapp.com/",
+        "github": ""
+    },
+    {
+        "name": "Clicky Game",
+        "image": "",
+        "link": "https://rgoderis.github.io/clicky-game/",
+        "github": ""
+    }
+]
