@@ -16,9 +16,9 @@ function Aside(){
                         A quick learner that is enthusiastic in tackling new challenges with a passion for growing and developing as a programer.</p>
                 </div>
                 <div id="contact" className="text-center">
-                    <h4 href="rgoderis789@gmail.com" className="text-white"><i class="fas fa-at"></i> rgoderis789@gmail.com</h4>
-                    <h4><a href="https://www.linkedin.com/in/ryan-goderis" className="text-white"><i class="fab fa-linkedin"></i> www.linkedin.com/in/ryan-goderis</a></h4>
-                    <h4><a href="https://github.com/rgoderis" className="text-white"><i class="fab fa-github-square"></i> github.com/rgoderis</a></h4>
+                    <h4 href="rgoderis789@gmail.com" className="text-white"><i className="fas fa-at"></i> rgoderis789@gmail.com</h4>
+                    <h4><a href="https://www.linkedin.com/in/ryan-goderis" className="text-white"><i className="fab fa-linkedin"></i> www.linkedin.com/in/ryan-goderis</a></h4>
+                    <h4><a href="https://github.com/rgoderis" className="text-white"><i className="fab fa-github-square"></i> github.com/rgoderis</a></h4>
                 </div>
             </div>
         </div>

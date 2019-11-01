@@ -21,7 +21,14 @@ class App extends React.Component {
           <Aside />
         </div>
         <Wrapper>
-          
+          {this.state.projects.map(project=>(
+            <ProjectCard
+              name={project.name}
+              image={project.image}
+              link={project.link}
+              github={project.github}
+            />
+          ))}
         </Wrapper>
       </div>
     );
