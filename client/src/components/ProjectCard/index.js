@@ -1,17 +1,16 @@
 import React from "react"
-// import "./style.css"
+import "./style.css"
 
 function CharacterCard(props){
     return(
         <div className="card">
+             <h1 className="card-header text-center">{props.name}</h1>
             <div className="img-container" data-id={props.id}>
-                <img alt={props.name} src={props.image}/>
-                <p>{props.image}</p>
+                <img className="project-img" alt={props.name} src={props.image}/>
             </div>
-            <div className="card-body">
-                <h1>{props.name}</h1>
-                <a href={props.link}><button><i className="fas fa-link"></i></button></a>
-                <a href={props.github}><button><i className="fab fa-github-square"></i></button></a>
+            <div className="card-body text-center">
+                <a href={props.link}><button className="btn btn-lg"><i className="fas fa-link"></i></button></a>
+                <a href={props.github}><button className="btn btn-lg"><i className="fab fa-github-square"></i></button></a>
             </div>
         </div>
     );

@@ -6,7 +6,7 @@ function Aside(){
     return (
         <div className="jumbotron col-4 m-0 p-0 bg-secondary">
             <div className="row justify-content-center container m-0 p-0">
-                <img src={images} className="img-thumbnail m-0 p-0" id="profile-image" alt="Profile Picture"/>
+                <img src={images} className="img-thumbnail m-0 p-0" id="profile-image" alt="Profile"/>
             </div>
             <div className="container">
                 <h3 className="text-center mt-5 mb-5 text-white">Full Stack Developer and Caffeine Addict</h3>
