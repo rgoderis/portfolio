@@ -2,3 +2,14 @@
     height: 30em;
     border: 0;
 }
+
+@media only screen and (max-width: 400px) {
+    .body {
+        font-size: small;
+    }
+    .contact {
+      /* width: 33%; */
+      /* height: 25% */
+      font-size: small;
+    }
+  }
