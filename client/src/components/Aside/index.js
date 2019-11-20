@@ -1,5 +1,5 @@
 import React from "react";
-import images from "../../images/Headshot.jpg";
+import images from "../../images/LowRezHeadshot.jpg";
 import "./style.css";
 
 function Aside(){
