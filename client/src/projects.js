@@ -70,6 +70,12 @@ const projects = [
         "image": require("./images/ClickyGame.png"),
         "link": "https://rgoderis.github.io/clicky-game/",
         "github": "https://github.com/rgoderis/clicky-game"
+    },
+    {
+        "name": "mWatch",
+        "image": require("./images/mWatch.png"),
+        "link": "https://mwatch.herokuapp.com/",
+        "github": "https://github.com/rgoderis/mWatch"
     }
 ]
 
